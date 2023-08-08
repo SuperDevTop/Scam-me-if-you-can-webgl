@@ -1,0 +1,16 @@
+Sprite sizes
+
+Amy_Atk
+W 281 x H 333
+
+Amy_defeat
+W 256 x H 354
+
+Amy_Idle
+W 270 x H 335
+
+Rat_Idle
+W 370 x H 350
+
+Racoon_Idle
+W 316 x H 330

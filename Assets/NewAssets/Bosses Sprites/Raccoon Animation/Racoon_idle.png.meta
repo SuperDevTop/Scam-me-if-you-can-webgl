@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 10124a284bb7c6c4b851b5127b8f79bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7711884721034271394
+    second: Racoon_idle_0
+  - first:
+      213: 613601938791539414
+    second: Racoon_idle_1
+  - first:
+      213: 5626756845483543181
+    second: Racoon_idle_2
+  - first:
+      213: 2744171872641618106
+    second: Racoon_idle_3
+  - first:
+      213: 3051594299328581569
+    second: Racoon_idle_4
+  - first:
+      213: -3121424406517379140
+    second: Racoon_idle_5
+  - first:
+      213: 2833016638724887463
+    second: Racoon_idle_6
+  - first:
+      213: 4487176424064696941
+    second: Racoon_idle_7
+  - first:
+      213: 4164160620190722267
+    second: Racoon_idle_8
+  - first:
+      213: 5172865879887149828
+    second: Racoon_idle_9
+  - first:
+      213: 8171260456303520209
+    second: Racoon_idle_10
+  - first:
+      213: 1380265771914947224
+    second: Racoon_idle_11
+  - first:
+      213: -8979231965158895579
+    second: Racoon_idle_12
+  - first:
+      213: 863961607451820989
+    second: Racoon_idle_13
+  - first:
+      213: 4505405259256573860
+    second: Racoon_idle_14
+  - first:
+      213: -7189192683485862794
+    second: Racoon_idle_15
+  - first:
+      213: 5185876978756362126
+    second: Racoon_idle_16
+  - first:
+      213: 6428184088849952806
+    second: Racoon_idle_17
+  - first:
+      213: -5644319607024649683
+    second: Racoon_idle_18
+  - first:
+      213: -4197467691586717867
+    second: Racoon_idle_19
+  - first:
+      213: -3172808043791841481
+    second: Racoon_idle_0
+  - first:
+      213: 3498195385390490285
+    second: Racoon_idle_1
+  - first:
+      213: -8102863108708690301
+    second: Racoon_idle_2
+  - first:
+      213: -9150411525010278374
+    second: Racoon_idle_3
+  - first:
+      213: -5310004631597978002
+    second: Racoon_idle_4
+  - first:
+      213: -6473082466936275315
+    second: Racoon_idle_5
+  - first:
+      213: -2862201283195662770
+    second: Racoon_idle_6
+  - first:
+      213: 64295215239721432
+    second: Racoon_idle_7
+  - first:
+      213: -3420484186233474670
+    second: Racoon_idle_8
+  - first:
+      213: -1795226502546553240
+    second: Racoon_idle_9
+  - first:
+      213: 3108007320806896006
+    second: Racoon_idle_10
+  - first:
+      213: 7403239144552258585
+    second: Racoon_idle_11
+  - first:
+      213: -3717959531693139161
+    second: Racoon_idle_12
+  - first:
+      213: -396833046359499127
+    second: Racoon_idle_13
+  - first:
+      213: -627433102560184815
+    second: Racoon_idle_14
+  - first:
+      213: -6623321035062821389
+    second: Racoon_idle_15
+  - first:
+      213: -4602219945617541291
+    second: Racoon_idle_16
+  - first:
+      213: -3753266421060675560
+    second: Racoon_idle_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Racoon_idle_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1022
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7370949f4ebe7f3d0800000000000000
+      internalID: -3172808043791841481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1022
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da26c153b261c8030800000000000000
+      internalID: 3498195385390490285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1022
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3861dc5fee8dc8f80800000000000000
+      internalID: -8102863108708690301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_3
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1022
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a183f1fe235330180800000000000000
+      internalID: -9150411525010278374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1022
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e6ce1dbe21f46b0800000000000000
+      internalID: -5310004631597978002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 684
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e347ccacdfa26a0800000000000000
+      internalID: -6473082466936275315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 684
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e8477f81b6748d0800000000000000
+      internalID: -2862201283195662770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_7
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 684
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1fe19582c64e000800000000000000
+      internalID: 64295215239721432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_8
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 684
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29176bf41cff780d0800000000000000
+      internalID: -3420484186233474670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 684
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8668858e1031617e0800000000000000
+      internalID: -1795226502546553240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 346
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681320cf03cd12b20800000000000000
+      internalID: 3108007320806896006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_11
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 346
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cdd4627c69db660800000000000000
+      internalID: 7403239144552258585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_12
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 346
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b17282187276cc0800000000000000
+      internalID: -3717959531693139161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_13
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 346
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e1b94627a2e7af0800000000000000
+      internalID: -396833046359499127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1163491eae8ea47f0800000000000000
+      internalID: -627433102560184815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 8
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd35b74c9c3514a0800000000000000
+      internalID: -6623321035062821389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_16
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 8
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557bf33d751a120c0800000000000000
+      internalID: -4602219945617541291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_idle_17
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 8
+        width: 316
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d6416318b9ebc0800000000000000
+      internalID: -3753266421060675560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
