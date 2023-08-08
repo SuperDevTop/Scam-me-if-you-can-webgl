@@ -1,5 +1,5 @@
 # Scam-me-if-you-can
-Unity2D webgl game
+Unity2D webgl game for mobile
 
 https://jfaisolution.com/scam/game/
 
