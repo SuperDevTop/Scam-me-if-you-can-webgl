@@ -1,0 +1,926 @@
+fileFormatVersion: 2
+guid: b8b44d0bcf26e3d4f8831949f3cb9867
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6461455550879425789
+    second: Hog_Idle_0
+  - first:
+      213: 8124229877720168800
+    second: Hog_Idle_1
+  - first:
+      213: 9144718128717314369
+    second: Hog_Idle_2
+  - first:
+      213: 2537448637950283523
+    second: Hog_Idle_3
+  - first:
+      213: 432869352367861096
+    second: Hog_Idle_4
+  - first:
+      213: 6811302311734115504
+    second: Hog_Idle_5
+  - first:
+      213: 3718924778124521329
+    second: Hog_Idle_6
+  - first:
+      213: -6396853785715757882
+    second: Hog_Idle_7
+  - first:
+      213: -6700661553809226937
+    second: Hog_Idle_8
+  - first:
+      213: -4236467857597909352
+    second: Hog_Idle_9
+  - first:
+      213: 3977698902948546878
+    second: Hog_Idle_10
+  - first:
+      213: 968362570130542560
+    second: Hog_Idle_11
+  - first:
+      213: -5311008912370762266
+    second: Hog_Idle_12
+  - first:
+      213: -4636853389104365362
+    second: Hog_Idle_13
+  - first:
+      213: 6481080932877301412
+    second: Hog_Idle_14
+  - first:
+      213: -7360751788181116284
+    second: Hog_Idle_15
+  - first:
+      213: -7910715834975312605
+    second: Hog_Idle_16
+  - first:
+      213: -5086167064218372166
+    second: Hog_Idle_17
+  - first:
+      213: -3451657445770786429
+    second: Hog_Idle_18
+  - first:
+      213: 7838610419802263369
+    second: Hog_Idle_19
+  - first:
+      213: -4374397410482310072
+    second: Hog_Idle_20
+  - first:
+      213: 1375034214309375909
+    second: Hog_Idle_21
+  - first:
+      213: 386996360886053770
+    second: Hog_Idle_22
+  - first:
+      213: -6412506366492673700
+    second: Hog_Idle_23
+  - first:
+      213: -6709586246743672086
+    second: Hog_Idle_24
+  - first:
+      213: 403954059125906130
+    second: Hog_Idle_25
+  - first:
+      213: -7609881094819314333
+    second: Hog_Idle_26
+  - first:
+      213: 7012423790301855167
+    second: Hog_Idle_27
+  - first:
+      213: 4210380042919950066
+    second: Hog_Idle_28
+  - first:
+      213: -5552297014836991955
+    second: Hog_Idle_29
+  - first:
+      213: 2548718107836524516
+    second: Hog_Idle_0
+  - first:
+      213: 1547841418402844404
+    second: Hog_Idle_1
+  - first:
+      213: 1117248812404349189
+    second: Hog_Idle_2
+  - first:
+      213: -617123296851217938
+    second: Hog_Idle_3
+  - first:
+      213: -815602618215192553
+    second: Hog_Idle_4
+  - first:
+      213: -7630991866540954469
+    second: Hog_Idle_5
+  - first:
+      213: 4877833157099405780
+    second: Hog_Idle_6
+  - first:
+      213: 4149757829384275393
+    second: Hog_Idle_7
+  - first:
+      213: -4070901090499564582
+    second: Hog_Idle_8
+  - first:
+      213: 8627597625493033347
+    second: Hog_Idle_9
+  - first:
+      213: -952280541628564257
+    second: Hog_Idle_10
+  - first:
+      213: 8790849622385668507
+    second: Hog_Idle_11
+  - first:
+      213: -6484404098366994610
+    second: Hog_Idle_12
+  - first:
+      213: 7012398010612872448
+    second: Hog_Idle_13
+  - first:
+      213: -4914461356014385958
+    second: Hog_Idle_14
+  - first:
+      213: -677500444445644095
+    second: Hog_Idle_15
+  - first:
+      213: 108196464676731227
+    second: Hog_Idle_16
+  - first:
+      213: -3522455319484908626
+    second: Hog_Idle_17
+  - first:
+      213: -5390716456055834961
+    second: Hog_Idle_18
+  - first:
+      213: 4250103524529647466
+    second: Hog_Idle_19
+  - first:
+      213: 6257317058491464236
+    second: Hog_Idle_20
+  - first:
+      213: -7089717641036080139
+    second: Hog_Idle_21
+  - first:
+      213: -4587092683360247954
+    second: Hog_Idle_22
+  - first:
+      213: 9005878529522934814
+    second: Hog_Idle_23
+  - first:
+      213: 570303293798955842
+    second: Hog_Idle_24
+  - first:
+      213: -7237147230889728843
+    second: Hog_Idle_25
+  - first:
+      213: -7442229107665695286
+    second: Hog_Idle_26
+  - first:
+      213: 2860918612064435161
+    second: Hog_Idle_27
+  - first:
+      213: -5282130693877479105
+    second: Hog_Idle_28
+  - first:
+      213: 7844561594229264734
+    second: Hog_Idle_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hog_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7a33a8d9dde5320800000000000000
+      internalID: 2548718107836524516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2176
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fec988b1990b7510800000000000000
+      internalID: 1547841418402844404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 2176
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509961d10e3418f00800000000000000
+      internalID: 1117248812404349189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2176
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1b09491a98f67f0800000000000000
+      internalID: -617123296851217938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 2176
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718a76f6db56ea4f0800000000000000
+      internalID: -815602618215192553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 2176
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c6eeef355491690800000000000000
+      internalID: -7630991866540954469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1651
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1488a996b81b340800000000000000
+      internalID: 4877833157099405780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1651
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5885c62c6e69930800000000000000
+      internalID: 4149757829384275393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1651
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbe509d6014187c0800000000000000
+      internalID: -4070901090499564582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1651
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381148454526bb770800000000000000
+      internalID: 8627597625493033347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1651
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc76bd84e1d8c2f0800000000000000
+      internalID: -952280541628564257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 1651
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91bc28d72f5ff970800000000000000
+      internalID: 8790849622385668507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1126
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e478fb014d4c206a0800000000000000
+      internalID: -6484404098366994610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1126
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0057c3e56da015160800000000000000
+      internalID: 7012398010612872448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1126
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4c0644f635ccbb0800000000000000
+      internalID: -4914461356014385958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1126
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cae5a17fe80996f0800000000000000
+      internalID: -677500444445644095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1126
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5972038c14608100800000000000000
+      internalID: 108196464676731227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 1126
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabbae8bc89bd1fc0800000000000000
+      internalID: -3522455319484908626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 601
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa670f7c1f35035b0800000000000000
+      internalID: -5390716456055834961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 601
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fa93633a66bfa30800000000000000
+      internalID: 4250103524529647466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 601
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a306646b476d650800000000000000
+      internalID: 6257317058491464236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 601
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb59305e534c9d90800000000000000
+      internalID: -7089717641036080139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 601
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fd488028f5750c0800000000000000
+      internalID: -4587092683360247954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 601
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e142882bece4bfc70800000000000000
+      internalID: 9005878529522934814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b3f19f2df1ae700800000000000000
+      internalID: 570303293798955842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 76
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4ad9300fc709b90800000000000000
+      internalID: -7237147230889728843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 76
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd8384ae04e7b890800000000000000
+      internalID: -7442229107665695286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 76
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db7763e15604b720800000000000000
+      internalID: 2860918612064435161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 76
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39ce3eae1a12b6b0800000000000000
+      internalID: -5282130693877479105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hog_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 76
+        width: 586
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5115ba253b7ddc60800000000000000
+      internalID: 7844561594229264734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7508d0f271f2fc74f8963fbc3dff3cd9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - swipePE: {fileID: 8413740942064151463, guid: 13d621ff472d8654c96a9d9f3c2b3c96,
+      type: 3}
+  - otherDot: {instanceID: 0}
+  - rowArrow: {instanceID: 0}
+  - columnArrow: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

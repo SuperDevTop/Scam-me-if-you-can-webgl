@@ -1,0 +1,81 @@
+<!--
+unity webgl responsive
+
+template by dom
+dom@crowscrowscrows.com
+https://twitter.com/zerstoerer
+
+source code on github
+https://github.com/sno/unity-webgl-responsive
+-->
+
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Scam Me If You Can</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <!-- unity resources -->
+    <script src="Build/UnityLoader.js"></script>
+
+    <script>
+      // instantiate webgl only if we're not on a touch device
+
+      var isTouch = ('ontouchstart' in document.documentElement);
+
+      if ( !isTouch ) {
+        var unityInstance = UnityLoader.instantiate("unityContainer", "Build/game.json");
+      }
+    </script>
+  </head>
+
+  <body>
+    <div class="webgl-wrapper">
+      <div class="aspect" style="margin-top: calc(100% / 768 * 1200);"></div>
+      <div class="webgl-content">
+        <div id="unityContainer"></div>
+      </div>
+    </div>
+
+    <div class="info">
+      <p>unity webgl responsive</p>
+      <p>press F or <a href="#" onclick="unityInstance.SetFullscreen(1)">click here</a> to toggle fullscreen</p>
+    </div>
+
+    <!-- feel free to remove all credits! -->
+    <div class="info">
+      <p>source code on <a href="https://github.com/sno/unity-webgl-responsive">github</a></p>
+      <p>template by dom / <a href="https://twitter.com/zerstoerer">@zerstoerer</a></p>
+    </div>
+
+    <!-- check for F key press to toggle full screen -->
+    <script>
+      var isFullscreen = false;
+
+      document.addEventListener('keydown', function(event) {
+          if (event.which === 70) {
+              if (!isFullscreen) {
+                unityInstance.SetFullscreen(1);
+              } else {
+                unityInstance.SetFullscreen(0);
+              }
+              isFullscreen = !isFullscreen;
+          }
+      });
+
+      var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+      var height = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+
+      // Update the style attribute of the div
+      var aspectDiv = document.querySelector('.aspect');
+      aspectDiv.style.marginTop = 'calc(100% / ' + width + ' * ' + height + ')';
+    </script>
+  </body>
+</html>

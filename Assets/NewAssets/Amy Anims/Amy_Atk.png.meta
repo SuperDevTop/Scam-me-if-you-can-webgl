@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 1e6d9c5e2603ba24fb6b28770b6fae5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1019854142715063543
+    second: Amy_Atk_0
+  - first:
+      213: 5239917098422164028
+    second: Amy_Atk_1
+  - first:
+      213: 4881154223924371020
+    second: Amy_Atk_2
+  - first:
+      213: 5382072264077538971
+    second: Amy_Atk_3
+  - first:
+      213: -3931806380991923705
+    second: Amy_Atk_4
+  - first:
+      213: -6253028127857072578
+    second: Amy_Atk_5
+  - first:
+      213: -3577394816085788386
+    second: Amy_Atk_6
+  - first:
+      213: -9058459235782586929
+    second: Amy_Atk_7
+  - first:
+      213: -6410183163189936136
+    second: Amy_Atk_8
+  - first:
+      213: 3924040877457577282
+    second: Amy_Atk_9
+  - first:
+      213: 6867160645527996960
+    second: Amy_Atk_10
+  - first:
+      213: 7310379717753312057
+    second: Amy_Atk_11
+  - first:
+      213: -8588098014382745261
+    second: Amy_Atk_12
+  - first:
+      213: -3652651008272437421
+    second: Amy_Atk_13
+  - first:
+      213: -7533741641622283292
+    second: Amy_Atk_14
+  - first:
+      213: -10960051777824443
+    second: Amy_Atk_15
+  - first:
+      213: -4836930627842465281
+    second: Amy_Atk_16
+  - first:
+      213: -8507680477738690967
+    second: Amy_Atk_17
+  - first:
+      213: -2875750196318637807
+    second: Amy_Atk_18
+  - first:
+      213: 558823727307388610
+    second: Amy_Atk_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amy_Atk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1031
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90312c48f00c8d1f0800000000000000
+      internalID: -1019854142715063543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1031
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ad2f7b6dce7b840800000000000000
+      internalID: 5239917098422164028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_2
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1031
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ed8eab7e75db340800000000000000
+      internalID: 4881154223924371020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_3
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1031
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96f2df6536f0ba40800000000000000
+      internalID: 5382072264077538971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_4
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1031
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abc579dea6f69c0800000000000000
+      internalID: -3931806380991923705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36ad843c08c839a0800000000000000
+      internalID: -6253028127857072578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 690
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19f1ed5e5a8a5ec0800000000000000
+      internalID: -3577394816085788386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_7
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 690
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd82de9153e94280800000000000000
+      internalID: -9058459235782586929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_8
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 690
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffbfdc20647a07a0800000000000000
+      internalID: -6410183163189936136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_9
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 690
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24598f8336ef47630800000000000000
+      internalID: 3924040877457577282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a0d3c293e0d4f50800000000000000
+      internalID: 6867160645527996960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 349
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93318e90f9fa37560800000000000000
+      internalID: 7310379717753312057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 349
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3599a7c8b52f0d880800000000000000
+      internalID: -8588098014382745261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_13
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 349
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fe273b24d2f4dc0800000000000000
+      internalID: -3652651008272437421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_14
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 349
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb198574e5c27790800000000000000
+      internalID: -7533741641622283292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549101714ef09dff0800000000000000
+      internalID: -10960051777824443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 8
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff12e3c9835cfdcb0800000000000000
+      internalID: -4836930627842465281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_17
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 8
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9661cdd5ea5aee980800000000000000
+      internalID: -8507680477738690967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 8
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111faadce684718d0800000000000000
+      internalID: -2875750196318637807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amy_Atk_19
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 8
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6773e183751c700800000000000000
+      internalID: 558823727307388610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

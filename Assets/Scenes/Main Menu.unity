@@ -1,0 +1,1815 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!29 &1
+OcclusionCullingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_OcclusionBakeSettings:
+    smallestOccluder: 5
+    smallestHole: 0.25
+    backfaceThreshold: 100
+  m_SceneGUID: 00000000000000000000000000000000
+  m_OcclusionCullingData: {fileID: 0}
+--- !u!104 &2
+RenderSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 9
+  m_Fog: 0
+  m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_FogMode: 3
+  m_FogDensity: 0.01
+  m_LinearFogStart: 0
+  m_LinearFogEnd: 300
+  m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+  m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
+  m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  m_AmbientIntensity: 1
+  m_AmbientMode: 3
+  m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
+  m_SkyboxMaterial: {fileID: 0}
+  m_HaloStrength: 0.5
+  m_FlareStrength: 1
+  m_FlareFadeSpeed: 3
+  m_HaloTexture: {fileID: 0}
+  m_SpotCookie: {fileID: 10001, guid: 0000000000000000e000000000000000, type: 0}
+  m_DefaultReflectionMode: 0
+  m_DefaultReflectionResolution: 128
+  m_ReflectionBounces: 1
+  m_ReflectionIntensity: 1
+  m_CustomReflection: {fileID: 0}
+  m_Sun: {fileID: 0}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_UseRadianceAmbientProbe: 0
+--- !u!157 &3
+LightmapSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 11
+  m_GIWorkflowMode: 1
+  m_GISettings:
+    serializedVersion: 2
+    m_BounceScale: 1
+    m_IndirectOutputScale: 1
+    m_AlbedoBoost: 1
+    m_EnvironmentLightingMode: 0
+    m_EnableBakedLightmaps: 0
+    m_EnableRealtimeLightmaps: 0
+  m_LightmapEditorSettings:
+    serializedVersion: 12
+    m_Resolution: 2
+    m_BakeResolution: 40
+    m_AtlasSize: 1024
+    m_AO: 0
+    m_AOMaxDistance: 1
+    m_CompAOExponent: 1
+    m_CompAOExponentDirect: 0
+    m_ExtractAmbientOcclusion: 0
+    m_Padding: 2
+    m_LightmapParameters: {fileID: 0}
+    m_LightmapsBakeMode: 1
+    m_TextureCompression: 1
+    m_FinalGather: 0
+    m_FinalGatherFiltering: 1
+    m_FinalGatherRayCount: 256
+    m_ReflectionCompression: 2
+    m_MixedBakeMode: 2
+    m_BakeBackend: 1
+    m_PVRSampling: 1
+    m_PVRDirectSampleCount: 32
+    m_PVRSampleCount: 512
+    m_PVRBounces: 2
+    m_PVREnvironmentSampleCount: 256
+    m_PVREnvironmentReferencePointCount: 2048
+    m_PVRFilteringMode: 1
+    m_PVRDenoiserTypeDirect: 1
+    m_PVRDenoiserTypeIndirect: 1
+    m_PVRDenoiserTypeAO: 1
+    m_PVRFilterTypeDirect: 0
+    m_PVRFilterTypeIndirect: 0
+    m_PVRFilterTypeAO: 0
+    m_PVREnvironmentMIS: 1
+    m_PVRCulling: 1
+    m_PVRFilteringGaussRadiusDirect: 1
+    m_PVRFilteringGaussRadiusIndirect: 5
+    m_PVRFilteringGaussRadiusAO: 2
+    m_PVRFilteringAtrousPositionSigmaDirect: 0.5
+    m_PVRFilteringAtrousPositionSigmaIndirect: 2
+    m_PVRFilteringAtrousPositionSigmaAO: 1
+    m_ExportTrainingData: 0
+    m_TrainingDataDestination: TrainingData
+    m_LightProbeSampleCountMultiplier: 4
+  m_LightingDataAsset: {fileID: 0}
+  m_UseShadowmask: 1
+--- !u!196 &4
+NavMeshSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_BuildSettings:
+    serializedVersion: 2
+    agentTypeID: 0
+    agentRadius: 0.5
+    agentHeight: 2
+    agentSlope: 45
+    agentClimb: 0.4
+    ledgeDropHeight: 0
+    maxJumpAcrossDistance: 0
+    minRegionArea: 2
+    manualCellSize: 0
+    cellSize: 0.16666667
+    manualTileSize: 0
+    tileSize: 256
+    accuratePlacement: 0
+    debug:
+      m_Flags: 0
+  m_NavMeshData: {fileID: 0}
+--- !u!1 &217940410
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 217940411}
+  - component: {fileID: 217940413}
+  - component: {fileID: 217940412}
+  - component: {fileID: 217940414}
+  m_Layer: 5
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &217940411
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 217940410}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1905271710}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 0, y: -636}
+  m_SizeDelta: {x: 700, y: 150}
+  m_Pivot: {x: 0.5, y: 0}
+--- !u!114 &217940412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 217940410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: bf238739b3444e049abfc90126ffe86e, type: 3}
+    m_FontSize: 60
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 0
+    m_MaxSize: 100
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: CLICK TO START!
+--- !u!222 &217940413
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 217940410}
+  m_CullTransparentMesh: 0
+--- !u!114 &217940414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 217940410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_EffectDistance: {x: 5, y: -5}
+  m_UseGraphicAlpha: 1
+--- !u!1 &256660509
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 256660510}
+  - component: {fileID: 256660512}
+  - component: {fileID: 256660511}
+  m_Layer: 5
+  m_Name: Background (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &256660510
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 256660509}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1905271710}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 2000, y: 4000}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &256660511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 256660509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &256660512
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 256660509}
+  m_CullTransparentMesh: 0
+--- !u!1 &338799721
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 338799723}
+  - component: {fileID: 338799722}
+  m_Layer: 0
+  m_Name: Middleware Controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!114 &338799722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 338799721}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 914808373cbce8d41bc3c049f5f9ef50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &338799723
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 338799721}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &791593608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 791593610}
+  - component: {fileID: 791593609}
+  m_Layer: 0
+  m_Name: QuestionsXmlManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &791593609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 791593608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c0216aacc5f1b24f8bf1deaae9d8807, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questionDB:
+    listOfQuestions:
+    - question: The price for a branded bag in the official store is $1,500.   An
+        online seller is offering the same bag for $700 for a limited time. Should
+        you buy it?
+      answerFont: 55
+      listOfAnswers:
+      - answer: Yes
+        isAnswer: 0
+      - answer: No
+        isAnswer: 1
+      explanation: "Be wary of online advertisements at cheap prices that sound too
+        good to be true. Verify sellers\u2019 reviews and always purchase from authorised
+        websites."
+    - question: You come across an online seller offering the  latest mobile phone 
+        at 50% off the retail price. What do you do?
+      answerFont: 35
+      listOfAnswers:
+      - answer: Proceed with the purchase
+        isAnswer: 0
+      - answer: Purchase from authorised store
+        isAnswer: 1
+      explanation: Be wary of online advertisements at cheap prices that sound too
+        good to be true. Purchase from authorised stores as far as possible.
+    - question: You have contacted a seller on a shopping platform about a phone
+        you wanted.   The seller suggests that you  buy directly from him, claiming
+        that the platform is slow in releasing payment. He wants you to transfer
+        the full amount before delivery. Should you do so?
+      answerFont: 55
+      listOfAnswers:
+      - answer: No
+        isAnswer: 1
+      - answer: Yes
+        isAnswer: 0
+      explanation: "Insist on cash-on-delivery or use the platform\u2019s secure
+        payment option where available."
+    - question: A person offers to buy a phone you are selling online. He says the
+        money has been  transferred but it will take some time to reach your account.
+        He sent a screenshot of the bank transfer but you have not  received any
+        money yet. What do you do?
+      answerFont: 35
+      listOfAnswers:
+      - answer: Do not give him the phone
+        isAnswer: 1
+      - answer: Give him the phone
+        isAnswer: 0
+      explanation: Verify with your bank to ensure the amount has been transferred
+        successfully into your bank account before delivering the product.
+    - question: What kind of deals should you be wary of when shopping online?
+      answerFont: 30
+      listOfAnswers:
+      - answer: Deals that are very cheap with limited time offer
+        isAnswer: 0
+      - answer: Lack of information on the products
+        isAnswer: 0
+      - answer: Sellers who insist on direct bank transfers
+        isAnswer: 0
+      - answer: All of the above
+        isAnswer: 1
+      explanation: "Always look out for:\n\u2022 Deals or high-demand items that
+        are below market-price, sometimes disguised as limited-time-only or flash
+        deals\r\n\u2022 Lack of information on the products or unstated terms and
+        conditions\r\n\u2022 Sellers who Insist on bank transfers instead of using
+        the platform\u2019s payment options\r\n\u2022 Requests to take the conversations
+        off the shopping platform\r"
+    - question: What should you do when purchasing products online?
+      answerFont: 30
+      listOfAnswers:
+      - answer: Agree to bank transfers before delivery
+        isAnswer: 0
+      - answer: Buy products with lack of information
+        isAnswer: 0
+      - answer: Use the platform's secure payment option
+        isAnswer: 1
+      - answer: All of the above
+        isAnswer: 0
+      explanation: "You should:\n\u2022 Avoid paying via bank transfers before delivery
+        \n\u2022 Where possible, insist on cash-on-delivery or use the platform\u2019s
+        secure payment option \n\u2022 Check that all fees are stated upfront"
+    - question: Someone offers to sell you a phone that usually costs S$1200 for
+        only S$500. However, he insists that you transfer the money to him first
+        before he sends the product. What should you do?
+      answerFont: 30
+      listOfAnswers:
+      - answer: Take up the deal and transfer the money
+        isAnswer: 0
+      - answer: Block and report him
+        isAnswer: 1
+      explanation: Be wary of deals at cheap prices that sound too good to be true.
+        Avoid making advance payment and only pay after receiving the product.
+    - question: A game console is on sale online at a low price. The seller claims
+        this is a limited sale and he can only deliver the product after you transfer
+        the money to him. He refuses cash on delivery or payment through the platform.
+        Do you buy the product?
+      answerFont: 55
+      listOfAnswers:
+      - answer: Yes
+        isAnswer: 0
+      - answer: No
+        isAnswer: 1
+      explanation: "Always insist on using the website\u2019s secure payment method
+        or making payment only after receiving the product."
+    - question: After purchasing an iPad from a seller directly, he contacts you
+        saying you need to pay an additional S$500 for tax. What should you do?
+      answerFont: 35
+      listOfAnswers:
+      - answer: Pay him S$500
+        isAnswer: 0
+      - answer: Block and report him
+        isAnswer: 1
+      explanation: Do not be intimidated into paying extra fees that were not stated
+        upfront.
+    - question: You get a call from an unknown caller ID claiming to be the police
+        and demanding that you go to a website and follow their instructions. Should
+        you do so?
+      answerFont: 55
+      listOfAnswers:
+      - answer: Yes
+        isAnswer: 0
+      - answer: No
+        isAnswer: 1
+      explanation: Always verify the identity of the person that you are speaking
+        to first before continuing with the conversation.
+    - question: "You receive a message from someone with your best friend\u2019s
+        profile picture. He is in urgent need of money and asks for an immediate
+        transfer of  $500. What do you do?"
+      answerFont: 30
+      listOfAnswers:
+      - answer: Immediately transfer the money
+        isAnswer: 0
+      - answer: Call your best friend to check if it is really him
+        isAnswer: 1
+      explanation: Always verify the identity of the person that you are speaking
+        to.
+    - question: You receive a call from someone claiming to be from a Telco service
+        provider. He informs you that your internet line has been hacked and needs
+        information on all your devices connected to the internet. What should you
+        do?
+      answerFont: 30
+      listOfAnswers:
+      - answer: Block and report him
+        isAnswer: 1
+      - answer: Immediately tell him the details of your devices
+        isAnswer: 0
+      explanation: Always verify the identity of the person that you are speaking
+        to. Never reveal any personal details to unknown persons.
+    - question: What should you look out for when receiving calls from numbers starting
+        with +65?
+      answerFont: 30
+      listOfAnswers:
+      - answer: Robocalls claiming to be from the authorities
+        isAnswer: 0
+      - answer: Calls asking for your personal information
+        isAnswer: 0
+      - answer: Scare tactics involving you in a crime
+        isAnswer: 0
+      - answer: All of the above
+        isAnswer: 1
+      explanation: "You should always look out for:\n\u2022 Calls or messages asking
+        for your personal particulars, bank account details, or OTPs\n\u2022 Scare
+        tactics that link you or your mobile number to crimes, your Wi-Fi being compromised,
+        or urgent requests that require your immediate attention\n\u2022 Numbers
+        calling from a \u2018+\u2019 number. Even calls with \u2018+65\u2019  does
+        not mean it\u2019s from Singapore"
+    - question: You receive a robocall from the Supreme Court asking for your personal
+        information for urgent matters. What should you do?
+      answerFont: 30
+      listOfAnswers:
+      - answer: Give them your information
+        isAnswer: 0
+      - answer: Block and report them
+        isAnswer: 1
+      explanation: No government agencies will ask you for your personal details
+        over the phone or through automated voice machines.
+    - question: You receive a call from your bank informing you that your account
+        has been locked and a deposit of S$1500 is required to unlock it. What should
+        you do?
+      answerFont: 30
+      listOfAnswers:
+      - answer: Block and report the number
+        isAnswer: 1
+      - answer: Transfer the deposit immediately
+        isAnswer: 0
+      explanation: No banks will ask you to pay deposit to unlock your account. Contact
+        your bank to verify the authenticity of the information that you received.
+    - question: You receive an SMS that says your credit card is blocked. An unknown
+        number is given for you to call to resolve this issue. What should you do?
+      answerFont: 30
+      listOfAnswers:
+      - answer: Call the number to unblock your card
+        isAnswer: 0
+      - answer: Call the bank to check about your card
+        isAnswer: 1
+      - answer: Reply to ask them what to do
+        isAnswer: 0
+      explanation: Verify the authenticity of the information by calling the bank
+        directly. Do not call the number stated in the SMS.
+    - question: Your close friend messages you on social media. He has a family emergency
+        and begs you to lend him  money urgently. What should you do?
+      answerFont: 30
+      listOfAnswers:
+      - answer: Send him the money
+        isAnswer: 0
+      - answer: Call your friend to confirm that it is him
+        isAnswer: 1
+      explanation: If a friend messages you asking for something that he usually
+        does not, check through other means like asking in person. Do not try to
+        verify his identity through the same account as it could be compromised.
+    - question: "You receive a SMS from \u201CCID of Singapore\u201D informing you
+        that your ATM card is suspended for security reasons. To re-activate the
+        card, you need to contact them and provide your internet banking details
+        and OTP. Do you do so?"
+      answerFont: 55
+      listOfAnswers:
+      - answer: Yes
+        isAnswer: 0
+      - answer: No
+        isAnswer: 1
+      explanation: No government agencies will ask you for your personal details
+        over the phone or through automated voice machines. Never provide your banking
+        details to unknown persons.
+    - question: Your friend messages you on a social media platform, saying that
+        if you send her pictures of your credit card details and contact number,
+        she can help you sign up for a $1,000,000 jackpot lottery. She wants your
+        OTP later. What do you do?
+      answerFont: 29
+      listOfAnswers:
+      - answer: Ask your friend in person about the lottery
+        isAnswer: 0
+      - answer: Google for information about the 'lottery'
+        isAnswer: 0
+      - answer: Block and report the account
+        isAnswer: 0
+      - answer: All of the above
+        isAnswer: 1
+      explanation: Verify the person on social media is indeed your friend. Never
+        reveal your banking details including OTP to unknown persons.
+    - question: You receive a message from your friend requesting that you send him
+        the 6-digit Whatsapp verification code sent to you. What do you do?
+      answerFont: 25
+      listOfAnswers:
+      - answer: Send the 6-digit code
+        isAnswer: 0
+      - answer: Contact your friend through other means to verify the request
+        isAnswer: 1
+      - answer: Ask why the code is required through the same WhatsApp message
+        isAnswer: 0
+      explanation: Never share your account verification code with anyone. Contact
+        your friend through other means as their account may have been compromised.
+    - question: You receive a message from a Telco service provider offering an excellent
+        new mobile plan. A link is provided for you to register. What do you do?
+      answerFont: 30
+      listOfAnswers:
+      - answer: Click on the link to see what is offered
+        isAnswer: 0
+      - answer: Ignore and block the number
+        isAnswer: 1
+      explanation: Do not go to URL links provided in unsolicited calls, emails or
+        text messages.
+    - question: You receive an email from your telco service provider with a URL
+        link asking you to update your payment details. What should you do?
+      answerFont: 25
+      listOfAnswers:
+      - answer: Click the link to provide the details
+        isAnswer: 0
+      - answer: Reply to the email asking for clarification
+        isAnswer: 0
+      - answer: Call your telco to verify
+        isAnswer: 1
+      - answer: Send the email to your bank
+        isAnswer: 0
+      explanation: Verify the authenticity of the email by calling your telco directly.
+        This may be a phishing email to obtain your bank information.
+    - question: A girl you are dating online asks you to try a demo investment account.
+        You do very well and she wants you to transfer S$20,000 so that she can start
+        a real investment account for you. Do you do it?
+      answerFont: 55
+      listOfAnswers:
+      - answer: Yes
+        isAnswer: 0
+      - answer: No
+        isAnswer: 1
+      explanation: Never transfer money to anyone that you have not met.
+    - question: You develop a relationship with a guy online. One day he suddenly
+        calls, claiming that a house he built has collapsed and he needs $50,000
+        to compensate his clients or he loses his job. What do you do?
+      answerFont: 30
+      listOfAnswers:
+      - answer: Immediately transfer the money to him
+        isAnswer: 0
+      - answer: Block and report him
+        isAnswer: 1
+      explanation: Never transfer money to anyone that you have not met.
+    - question: A guy you are seeing online wishes to send you gifts. However, to
+        receive them, you have to pay a courier fee of S$4000 via cash deposit. What
+        do you do?
+      answerFont: 34
+      listOfAnswers:
+      - answer: Pay the cash deposit
+        isAnswer: 0
+      - answer: Block and report him
+        isAnswer: 1
+      explanation: Never transfer money to anyone that you have not met.
+    - question: You chat online with an attractive guy on a dating app. Although
+        he showers you with constant attention, he avoids any video calls with you.
+        One day, he asks you to invest in his company. What do you do?
+      answerFont: 35
+      listOfAnswers:
+      - answer: Give him the money
+        isAnswer: 0
+      - answer: Refuse as you do not know him well enough
+        isAnswer: 1
+      explanation: Someone who professes their love very quickly after making contactwith
+        you and refuses to get on video call is highly suspicious. Never give or
+        transfer money to anyone that you have not met.
+    - question: What are some love scam warning signs you should look out for when
+        chatting with or dating someone online?
+      answerFont: 25
+      listOfAnswers:
+      - answer: They profess undying love very quickly
+        isAnswer: 0
+      - answer: Promises to send expensive gifts
+        isAnswer: 0
+      - answer: Sudden stories of misfortune and requests for cash
+        isAnswer: 0
+      - answer: All of the above
+        isAnswer: 1
+      explanation: Someone who professes their love very quickly after making contactwith
+        you and refuses to get on video call is highly suspicious. Never give or
+        transfer money to anyone that you have not met.
+    - question: How to avoid falling prey to Internet Love Scams?
+      answerFont: 25
+      listOfAnswers:
+      - answer: Do not send money to anyone you have not met
+        isAnswer: 0
+      - answer: "Verify the person\u2019s identity through an image search online"
+        isAnswer: 0
+      - answer: Ask for a  live video call with the person
+        isAnswer: 0
+      - answer: All of the above
+        isAnswer: 1
+      explanation: "Some things you should always take note of when chatting online:\r\n\u2022
+        Do not send money to anyone you have not met in person.\r\n\u2022 Verify
+        the identity of the person you are talking to with an online image search\r"
+    - question: Your online boyfriend is very sweet, but always finds excuses not
+        to pick up your live video calls. He says his father is hospitalised and
+        he needs S$3000 urgently to save him. Do you give him the money?
+      answerFont: 55
+      listOfAnswers:
+      - answer: Yes
+        isAnswer: 0
+      - answer: No
+        isAnswer: 1
+      explanation: Scammers will always try to avoid live video calls to avoid revealing
+        their identity. Never transfer money to any person that you have not met.
+    - question: You chat regularly with a guy online but have never met him in person.
+        He constantly pushes you to invest in cryptocurrency and promises he can
+        help you get rich. Should you trust him?
+      answerFont: 55
+      listOfAnswers:
+      - answer: Yes
+        isAnswer: 0
+      - answer: No
+        isAnswer: 1
+      explanation: Never transfer money to any person that you have not met.
+    - question: You receive a message from a moneylender with very low interest rates.
+        However, they need a deposit of $5000 before they can give you a loan. Do
+        you give them the money?
+      answerFont: 55
+      listOfAnswers:
+      - answer: Yes
+        isAnswer: 0
+      - answer: No
+        isAnswer: 1
+      explanation: Licensed moneylenders are not allowed to advertise loans via SMS
+        or WhatsApp. Do not be cheated by scammers trying to get you to send them
+        money.
+    - question: You receive a SMS from a licensed moneylender offering loans with
+        low interest rate and quick approval. What do you do?
+      answerFont: 30
+      listOfAnswers:
+      - answer: Reply to request for a loan
+        isAnswer: 0
+      - answer: Forward the message to friends
+        isAnswer: 0
+      - answer: Report and block the number
+        isAnswer: 1
+      - answer: All of the above
+        isAnswer: 0
+      explanation: Licensed moneylenders are not allowed to advertise loans through
+        SMS or WhatsApp. If you see such advertisements for loans, it is a scam.
+    - question: '"I am Kenny from Quick Credits. We provide many types of loans with
+        approval rates up to 95%. Reply to 91234567 for more details"  Is this a
+        scam?'
+      answerFont: 55
+      listOfAnswers:
+      - answer: Yes
+        isAnswer: 1
+      - answer: No
+        isAnswer: 0
+      explanation: Licensed moneylenders are not allowed to advertise their loans
+        via SMS or WhatsApp. If you see such advertisements for loans, it is a scam.
+    - question: You contact a moneylender requesting for a loan of $1,000. The moneylender
+        requests for a transfer of $500 as admin fee before your loan can be approved.
+        What do you do?
+      answerFont: 28
+      listOfAnswers:
+      - answer: Carry out the money transfer
+        isAnswer: 0
+      - answer: Report him to the Registry of Moneylenders
+        isAnswer: 1
+      explanation: No licensed moneylender will request for upfront fees before processing
+        your loan application. Do not be cheated by scammers trying to get you to
+        send them money.
+    - question: What do you do if you receive a text message offering loans?
+      answerFont: 30
+      listOfAnswers:
+      - answer: Respond to the text
+        isAnswer: 0
+      - answer: Ignore and block the number
+        isAnswer: 1
+      explanation: Licensed moneylenders are not allowed to advertise their loans
+        via SMS or Whatsapp. If you see such advertisements for loans, it is a scam.
+    - question: What is the best way to check whether a moneylender is licensed?
+      answerFont: 20
+      listOfAnswers:
+      - answer: Google their names
+        isAnswer: 0
+      - answer: Ask them for their credentials
+        isAnswer: 0
+      - answer: Check the list of licensed moneylenders on the Ministry of Law's
+          Registry of Moneylenders website
+        isAnswer: 1
+      explanation: The name and address of all licensed moneylenders are available
+        on the Ministry of Law's Registry of Moneylenders website.
+    - question: What do you do when you come across a moneylender website asking
+        for your personal particulars to get a loan?
+      answerFont: 25
+      listOfAnswers:
+      - answer: Provide the information to get your loan approved
+        isAnswer: 0
+      - answer: Do not provide your personal particulars as it is likely a scam
+        isAnswer: 1
+      explanation: All licensed moneylenders are required under law to verify the
+        particulars of the borrower at their approved place of business. Hence, you
+        should not provide your personal particulars on any moneylender website.
+    - question: What should you be wary of when you are thinking of getting a loan
+        from a moneylender?
+      answerFont: 25
+      listOfAnswers:
+      - answer: Advertisements on social media, SMS or messaging apps
+        isAnswer: 0
+      - answer: Upfront admin fees or deposit
+        isAnswer: 1
+      - answer: Instant, fuss free loan approvals
+        isAnswer: 1
+      - answer: All of the above
+        isAnswer: 1
+      explanation: "Look out for these tell-tale signs when borrowing from moneylenders:
+        \r\n\u2022 Ads on social media, SMS or messaging apps \r\n\u2022 Fake business
+        websites created to convince you they are legitimate\r\n\u2022 Instant, fuss-free
+        loan approvals\r\n\u2022 Requests for fees to be transferred before processing
+        your loan application\r"
+    - question: You receive an SMS offering loans and asking for your NRIC, CPF,
+        and bank account details. Should you give him the information?
+      answerFont: 27
+      listOfAnswers:
+      - answer: Yes, provide the information via SMS
+        isAnswer: 0
+      - answer: No, ignore and block the number
+        isAnswer: 1
+      explanation: Do not give out personal details like your bank account number,
+        particulars or OTPs to anyone you have not met.
+    - question: You receive an SMS from your bank requesting you to log in to your
+        account by clicking on a URL address and to update your personal bank details.
+        What do you do?
+      answerFont: 27
+      listOfAnswers:
+      - answer: Click on the URL to update your account details
+        isAnswer: 0
+      - answer: Contact your bank for verification
+        isAnswer: 1
+      explanation: Verify the authenticity of the information by calling the bank
+        directly. This may be a phishing SMS to obtain your bank information.
+--- !u!4 &791593610
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 791593608}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 558.18414, y: 1219.1243, z: -497.3802}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &905512618
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 905512621}
+  - component: {fileID: 905512620}
+  - component: {fileID: 905512619}
+  - component: {fileID: 905512622}
+  m_Layer: 0
+  m_Name: Main Camera
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!81 &905512619
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 905512618}
+  m_Enabled: 1
+--- !u!20 &905512620
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 905512618}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_FocalLength: 50
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 1
+  orthographic size: 7.125037
+  m_Depth: -1
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!4 &905512621
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 905512618}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &905512622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 905512618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc50f55b06f0164daedd8d96963c19b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cameraSize: 7.1
+  canvas: {fileID: 2030985382}
+--- !u!1 &991144308
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 991144309}
+  - component: {fileID: 991144311}
+  - component: {fileID: 991144310}
+  m_Layer: 5
+  m_Name: Background
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &991144309
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 991144308}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1905271710}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 720, y: 1440}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &991144310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 991144308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 232da925eb5c58d47a5855e1e9d39c8c, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &991144311
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 991144308}
+  m_CullTransparentMesh: 0
+--- !u!1 &1183962751
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1183962752}
+  - component: {fileID: 1183962753}
+  m_Layer: 0
+  m_Name: Button Pressed
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1183962752
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1183962751}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1674730088}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &1183962753
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1183962751}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: f5d0cfd225078134b98f01cbf7d50df4, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!1 &1423318088
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1423318091}
+  - component: {fileID: 1423318089}
+  m_Layer: 0
+  m_Name: LevelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: -1412012063857583412, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1423318089
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1423318088}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: cc876b60c73b2d949a720f695a4b509f, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.2
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1423318091
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1423318088}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.83, y: 10.27, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1500828433
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1500828435}
+  - component: {fileID: 1500828434}
+  m_Layer: 0
+  m_Name: QuestionsInstance
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1500828434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1500828433}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0fe1d3505fb5342b99e92f11b89b04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questionDB:
+    listOfQuestions: []
+--- !u!4 &1500828435
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1500828433}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 179.99994, y: 320.1289, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1642746628
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1642746629}
+  - component: {fileID: 1642746632}
+  - component: {fileID: 1642746631}
+  - component: {fileID: 1642746630}
+  m_Layer: 5
+  m_Name: Button
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1642746629
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1642746628}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1905271710}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 18, y: 18}
+  m_SizeDelta: {x: 1564.279, y: 3475.004}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1642746630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1642746628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 0
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1642746631}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1774546425}
+        m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1642746631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1642746628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
+  m_RaycastTarget: 1
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1642746632
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1642746628}
+  m_CullTransparentMesh: 0
+--- !u!1 &1674730085
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1674730088}
+  - component: {fileID: 1674730087}
+  m_Layer: 0
+  m_Name: Sound Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1674730087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1674730085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2213d95d01ccd740831cfd384b78f8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  answerCorrect: {fileID: 0}
+  buttonClick: {fileID: 1183962753}
+  backButtonClick: {fileID: 0}
+  destroyNoise: {fileID: 0}
+  tileLanding: {fileID: 0}
+--- !u!4 &1674730088
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1674730085}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1183962752}
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1763612745
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1763612747}
+  - component: {fileID: 1763612746}
+  m_Layer: 0
+  m_Name: Text Controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1763612746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1763612745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52d5ae243fcf55c4b826a74136e36e88, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text: {fileID: 217940412}
+--- !u!4 &1763612747
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1763612745}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 239.6492, y: 1022.63007, z: -143.25}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1774546424
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1774546426}
+  - component: {fileID: 1774546425}
+  m_Layer: 0
+  m_Name: Main Menu Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1774546425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1774546424}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e87f717eca313049ab435efe4f5628a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1774546426
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1774546424}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -360.00006, y: -639.8711, z: 0}
+  m_LocalScale: {x: 2.322581, y: 2.322581, z: 2.322581}
+  m_Children: []
+  m_Father: {fileID: 2030985384}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1905271709
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1905271710}
+  m_Layer: 5
+  m_Name: UI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1905271710
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1905271709}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 256660510}
+  - {fileID: 991144309}
+  - {fileID: 217940411}
+  - {fileID: 1642746629}
+  m_Father: {fileID: 2030985384}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &1926009919
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1926009922}
+  - component: {fileID: 1926009921}
+  - component: {fileID: 1926009920}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1926009920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1926009919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &1926009921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1926009919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &1926009922
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1926009919}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2030985380
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2030985384}
+  - component: {fileID: 2030985383}
+  - component: {fileID: 2030985382}
+  - component: {fileID: 2030985381}
+  - component: {fileID: 2030985385}
+  m_Layer: 5
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2030985381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030985380}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &2030985382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030985380}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 1
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 720, y: 1440}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+--- !u!223 &2030985383
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030985380}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &2030985384
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030985380}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_Children:
+  - {fileID: 1774546426}
+  - {fileID: 1905271710}
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!114 &2030985385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2030985380}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9ac2510d20d9ee4bbfc3523f519997a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
