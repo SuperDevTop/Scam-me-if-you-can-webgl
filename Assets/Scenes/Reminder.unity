@@ -583,8 +583,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "1. Select your mystery gift item \r\n2. Scan this Qr code on the reader
-    \r\n3. Redeem your gift"
+  m_Text: "1. Select your mystery prize item \r\n2. Scan this Qr code on the reader
+    \r\n3. Redeem your prize"
 --- !u!222 &620997320
 CanvasRenderer:
   m_ObjectHideFlags: 0
